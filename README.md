@@ -47,7 +47,7 @@ and improving my skills through practice and creativity.
 <h2>🌐 Connect with me</h2>
 
 <p>
-  <a href="https://discord.gg/fpUtBrbKU5">
+  <a href="[https://discord.gg/fpUtBrbKU5](https://discord.gg/D73VdMqnw)">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Discord"
