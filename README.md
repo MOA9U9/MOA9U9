@@ -47,7 +47,9 @@ and improving my skills through practice and creativity.
 <h2>🌐 Connect with me</h2>
 
 <p>
-  <a href="[https://discord.gg/fpUtBrbKU5](https://discord.gg/D73VdMqnw)">
+  <!-- DISCORD -->
+
+  <a href="https://discord.gg/D73VdMqnw" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Discord"
@@ -56,19 +58,34 @@ and improving my skills through practice and creativity.
     >
   </a>
 
-  <a href="https://x.com/MOA9917">
+  <!-- X -->
+
+  <a href="https://x.com/MOA9917" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://cdn.simpleicons.org/x/000000/FFFFFF"
       alt="X"
       height="30"
       width="40"
     >
   </a>
 
-  <a href="https://www.instagram.com/moa9m9/">
+  <!-- INSTAGRAM -->
+
+  <a href="https://www.instagram.com/moa9m9/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
+      height="30"
+      width="40"
+    >
+  </a>
+
+  <!-- TIKTOK -->
+
+  <a href="https://www.tiktok.com/@moa9u9" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/tiktok/000000/FFFFFF"
+      alt="TikTok"
       height="30"
       width="40"
     >
@@ -92,3 +109,4 @@ and improving my skills through practice and creativity.
 <!-- LÍNEA INFERIOR -->
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" alt="Neon line">
+
