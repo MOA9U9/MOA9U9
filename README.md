@@ -40,7 +40,7 @@ and improving my skills through practice and creativity.
 * 🌱 I am constantly learning and exploring new technologies.
 * 💡 I like turning simple ideas into functional projects.
 * ❤️ I build projects for learning, creativity and passion.
-* 📫 Contact me at **[oblitasabanto5547@gmail.com](mailto:oblitasabanto5547@gmail.com)**
+
 
 <!-- REDES SOCIALES -->
 
